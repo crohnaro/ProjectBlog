@@ -1,0 +1,9 @@
+body {
+    background-color: #201925;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
