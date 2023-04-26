@@ -1,7 +1,6 @@
 import { useTheme } from "@mui/material/styles";
 import TemplateDefault from "../src/templates/Default";
 import { Container, Grid, Typography } from "@mui/material";
-
 import MainPost from "app/src/components/MainPost/MainPost";
 import FeaturedPost from "app/src/components/FeaturedPost/FeaturedPost";
 
