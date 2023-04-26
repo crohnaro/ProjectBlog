@@ -4,7 +4,7 @@ import { Container, Grid, Typography } from "@mui/material";
 import MainPost from "app/src/components/MainPost/MainPost";
 import FeaturedPost from "app/src/components/FeaturedPost/FeaturedPost";
 
-export default function Home() {
+const Home = () => {
   const theme = useTheme();
   return (
     <>
@@ -79,3 +79,5 @@ export default function Home() {
     </>
   );
 }
+
+export default Home
